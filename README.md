@@ -68,3 +68,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+#SREEVANI-FOODAPP
+Header
+Logo
+NavItems
+Body
+-search bar
+-RestaurantContainer
+-RestaurantCards
+-image
+-name of restaurant, start rating, cuisine,delivery time
+
+Footer
+-copyright
+-links
+-Address
+-Contact
